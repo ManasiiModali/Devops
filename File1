@@ -1,3 +1,4 @@
 int p,q,r
 r=p+q
 print r 
+c = d
